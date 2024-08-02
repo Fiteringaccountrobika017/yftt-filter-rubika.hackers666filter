@@ -1,0 +1,8 @@
+print("https://web.rubika.ir/#c=u0HM79y04e1b6291ce256d327e9cb602")
+print("https://s8.uupload.ir/files/fitering-robika(acoount.fake)spam_18ah.jpg")
+print("https://s8.uupload.ir/files/filtering(robika)account.spam_4hyt.jpg")
+print("https://s8.uupload.ir/files/filter.account_2hn4.jpg")
+print("https://s8.uupload.ir/files/filtering(robika)report_em3i.jpg")
+print("http://darkweb-sites.org")
+print("https://codepen.io/AlainBarrios/pen/pmZveP")
+print("http://Spam.com/Bug.com/5.106.8.151虫神///8.8.8.8.被过滤8.8.8.8.8.8.8.8.8.8//Report.com//0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.鲁比克的支持.0.0.0.0.0过滤0.0.0.0.0.0//http://darkweb24.net")
