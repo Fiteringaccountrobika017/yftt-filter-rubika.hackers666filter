@@ -36,9 +36,8 @@ print("https://s8.uupload.ir/files/filter_hzbb.jpg")
 
 print("https://s8.uupload.ir/files/filtering_nued.jpg")
 
-print("pornhub.com")
+print("http://pornhub.com")
 
-print("sex.com")
+print("http://sex.com")
 
-print("ok.xxx")
-
+print("http://ok.xxx")
