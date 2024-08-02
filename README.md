@@ -6,8 +6,7 @@ print("https://s8.uupload.ir/files/filter.account_ool3.jpg")
 
 print("https://s8.uupload.ir/files/filtering(robika)_k57p.jpg")
 
-print("https://s8.uupload.ir/files
-/filtering(robika)_k57p.jpg")
+print("https://s8.uupload.ir/files/filtering(robika)account.spam_4hyt.jpg")
 
 print("https://s8.uupload.ir/files/¥ftt20k.in.rubika_57sh.jpg")
 
